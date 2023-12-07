@@ -258,44 +258,44 @@ u {
     }
     /* estilos para los tolltips*/
     .icon__home:hover::after{
-        content: 'Ir al inicio';
+        content: 'Go home';
     }
     .icon__about:hover::after{
-        content: 'Sobre mi';
+        content: 'About me';
     }
     .icon__skills:hover::after{
-        content: 'Habilidades';
+        content: 'Skills';
     }
     .icon__projects:hover::after{
-        content: 'Proyectos';
+        content: 'Projects';
     }
     .icon__education:hover::after{
-        content: 'Educación';
+        content: 'Education';
     }
     .icon__achievements:hover::after{
-        content: 'Logros destacados';
+        content: 'Notable achievements';
     }
     .icon__cv:hover::after{
-        content: 'Descarga mi CV';
+        content: 'Download my CV';
     }
     .icon__language:hover::after{
-        content: 'Cambiar idioma';
+        content: 'Change language';
     }
     .icon__volume:hover::after{
-        content: 'Prender/Apagar Sonido';
+        content: 'Turn On sound/Turn Off sound';
     }
     .icon__mode:hover::after{
-        content: 'Activar/Desactivar el modo oscuro';
+        content: 'Activate/Desactivate dark mode';
     }
     .icon__link:hover::after{
         bottom: 45px;
         right: 0;
-        content: 'Contáctame';
+        content: 'Contact me';
     }
     .icon__git:hover::after{
         top: 0;
         right: 40px;
-        content: 'Mira mi forma de programar';
+        content: 'Look at my way of programming';
     }
 
     /* fin de los estilos para los tooltips*/
